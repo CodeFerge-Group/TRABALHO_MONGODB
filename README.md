@@ -369,7 +369,7 @@ Resumo do que foi implementado
 | Total de documentos | 120.025 |
 | Produtos manuais | 8 produtos reais com atributos detalhados |
 | Produtos automáticos | 120.000 gerados com script Python |
-| Avaliações | 13 com nomes reais angolanos |
+| Avaliações | 13  |
 | Categorias | 4 (Electrónicos, Moda, Acessórios, Automóveis) |
 | Queries avançadas | 8 |
 | Índices criados | 6 (5 COMPOUND + 1 UNIQUE) |
