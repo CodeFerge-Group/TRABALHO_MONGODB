@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"product_sku":{"$numberInt":"1"}},"name":"product_sku_1"},{"v":{"$numberInt":"2"},"key":{"cliente.nome":{"$numberInt":"1"}},"name":"cliente.nome_1"}],"uuid":"69550126a9974a92ad5b9b27b5ff4bf4","collectionName":"avaliacoes","type":"collection"}
